@@ -5,7 +5,7 @@ options(digits=4)
 args = commandArgs(trailingOnly=TRUE)
 
 sample=args[1]
-#sample='OUN_HK124_001_D1'
+
 
 
 ## vars
